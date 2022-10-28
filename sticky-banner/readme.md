@@ -1,1 +1,3 @@
-
+- [File deleted from](https://github.com/Uvacoder/abc-dev-roadmap/tree/master/components)
+- [Original Repo](https://github.com/kamranahmedse/developer-roadmap)
+- [Homepage with component](https://roadmap.sh)
